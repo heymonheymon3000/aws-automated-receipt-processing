@@ -24,3 +24,6 @@ The architecture consists of:
 ![alt text](design/architect-diagram.png)
 
 ## &rarr; Final Result
+![alt text](design/email-receipt1.png) </br>
+![alt text](design/email-receipt2.png) </br>
+![alt text](design/email-receipt3.png)
